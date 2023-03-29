@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.prime-container {
+  background-color: #000000;
+  background-size: cover;
+  min-height: 100vh;
+}
+h1 {
+  color: #ffffff;
+}
